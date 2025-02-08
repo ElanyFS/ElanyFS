@@ -8,7 +8,7 @@ Desenvolvedora apaixonada por criar soluções inovadoras e funcionais, com foco
 
 
 ## 🔗 Redes Sociais
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://elany-portfoliodev.vercel.app/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebsouzaa/) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/) [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/Ellany0828/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:ellanysouza08@gmail.com)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ebsouzaa.vercel.app/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebsouzaa/) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/) [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/Ellany0828/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:ellanysouza08@gmail.com)
 
 
 ## 🛠 Habilidades
